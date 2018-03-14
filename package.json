@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joshuaobinna/final_assessment_obinna/issues"
   },
-  "homepage": "https://github.com/joshuaobinna/final_assessment_obinna#readme"
+  "homepage": "https://github.com/joshuaobinna/final_assessment_obinna#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
